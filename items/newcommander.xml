@@ -2,28 +2,39 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.1 Concept//EN" "concept.dtd">
 <concept id="sapcecommander" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
 	ditaarch:DITAArchVersion="1.1">
-	
+
 	<title>Space Station New Commander</title>
 	<conbody>
-			<p>Handing over ISS command to Japanese commander 
+		<p>Command of the International Space Station was passed from
+			cosmonaut Oleg Kotov to Koichi Wakata of the Japan Aerospace
+			Exploration Agency on March 9. The change of command makes Wakata,
+			who will oversee Expedition 39, the first Japanese commander of the
+			complex. He, NASA Flight Engineer Rick Mastracchio and Russian
+			cosmonaut Mikhail Tyurin will be joined on March 26 by NASA's Steve
+			Swanson and cosmonauts Alexander Samokutyaev and Oleg Artemyev.
 		</p>
 
-			
-			
-		
-	<p><object data="../images/commander.mp4" type="video/mp4" height="500"
- width="600">
- 	<param name="SRC" value="http://ie.microsoft.com/testdrive/IEBlog/Common/player.swf?file=../images/commander.mp4"/>
 
- 	
-     <param name="width" value="600"/>
-     <param name="height" value="600"/>
-     <param name="controls" value="yes"/>
-	 <param name="autoplay" value="false"/>
-	</object></p>
-	 <p><cite>http://www.youtube.com/watch?v=kumP_g_zfyI</cite></p>
-	
+
+
+		<p>
+			<object data="../images/commander.mp4" type="video/mp4"
+				height="500" width="600">
+				<param name="SRC"
+					value="http://ie.microsoft.com/testdrive/IEBlog/Common/player.swf?file=../images/commander.mp4" />
+
+
+				<param name="width" value="600" />
+				<param name="height" value="600" />
+				<param name="controls" value="yes" />
+				<param name="autoplay" value="false" />
+			</object>
+		</p>
+		<p>
+			<cite>http://www.youtube.com/watch?v=kumP_g_zfyI</cite>
+		</p>
+
 	</conbody>
-	
-	
+
+
 </concept>

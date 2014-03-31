@@ -2,24 +2,38 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.1 Concept//EN" "concept.dtd">
 <concept id="shuttlelaunch" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
 	ditaarch:DITAArchVersion="1.1">
-	
+
 	<title>Space Shuttle Endevour Launch</title>
 	<conbody>
-			<p>Launch of Space Shuttle Endevour at Kennedy Space Center 
+		<p>Endeavour blasted off on the next-to-last shuttle flight Monday
+			morning under the command of Mark Kelly, the husband of Rep.
+			Gabrielle Giffords. The wounded congresswoman watched the launch in
+			private from Kennedy Space Center. As many as 45,000 guests jammed
+			NASA's launch site. The crowd outside the gates was estimated to be
+			in the tens of thousands, if not more. It was the second launch
+			attempt. Late last month, an electrical problem halted the countdown.
+			Endeavour and its six astronauts will arrive at the International
+			Space Station on Wednesday. They are delivering a $2 billion particle
+			physics experiment. The mission will last 16 days. Only one other
+			shuttle trip remains.
 		</p>
 
-			
-			
-	<p><object data="../images/shuttle.mp4" type="video/mp4" height="500"
- width="600">
-     <param name="width" value="600"/>
-     <param name="height" value="600"/>
-     <param name="controls" value="yes"/>
-	 <param name="autoplay" value="false"/>
-	</object></p>
-	 <p><cite>http://www.youtube.com/watch?v=iBU6oskkNEc</cite></p>
-	
+
+
+		<p>
+			<object data="../images/shuttle.mp4" type="video/mp4" height="500"
+				width="600">
+				<param name="width" value="600" />
+				<param name="height" value="600" />
+				<param name="controls" value="yes" />
+				<param name="autoplay" value="false" />
+			</object>
+		</p>
+		<p>
+			<cite>http://www.youtube.com/watch?v=iBU6oskkNEc</cite>
+		</p>
+
 	</conbody>
-	
-	
+
+
 </concept>

@@ -25,6 +25,7 @@
 		
 		
 		<topicref href="items/video.xml" type="concept">
+		<topicref href="items/sunstorm.xml" type="concept" />
 		<topicref href="items/marsrover.xml" type="concept" />
 		<topicref href="items/shuttlev.xml" type="concept" />
 		<topicref href="items/newcommander.xml" type="concept" />
