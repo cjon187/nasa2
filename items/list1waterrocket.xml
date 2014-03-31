@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "../../dtd/technicalContent/dtd/task.dtd">
+<task id="waterrocket" xml:lang="en-us">
+	<title>How to Make Homemade Water Rocket</title>
+	<shortdesc>http://www.wikihow.com/Make-a-Water-Bottle-Rocket</shortdesc>	
+	<taskbody>
+		<steps>
+			<step>
+				<cmd>
+					<b>
+						<ph>Take a 2 liter bottle and remove label. Take the cap off, but
+							save it. You will need it later. 						
+						</ph>
+					</b>
+					<image align="bottom" href="../images/w1.jpg" width="500"
+						height="400" />
+
+				</cmd>
+				
+			</step>
+			<step>
+				<cmd>
+					<b>
+						<ph>Take a pen apart (Bic Pens work great) and remove all parts.
+						</ph>
+					</b>
+					<image align="bottom" href="../images/w2.jpg" width="500"
+						height="400" />
+
+				</cmd>
+			</step>
+			<step>
+				<cmd>
+					<b>
+						<ph>Take the barrel of the pen(the white part) and saw it in half.
+						</ph>
+					</b>
+					<image align="bottom" href="../images/w3.jpg" width="500"
+						height="400" />
+
+				</cmd>
+			</step>
+			<step>
+				<cmd>
+					<b>
+						<ph>Take the cap of your bottle and outline the size of the pen
+							barrel. 
+						</ph>
+					</b>
+					<image align="bottom" href="../images/w4.jpg" width="500"
+						height="400" />
+
+				</cmd>
+			</step>
+			<step>
+				<cmd>
+					<b>
+						<ph>Take a drill the size of the pen barrel and drill into the
+							center of the cap.
+						</ph>
+					</b>
+					<image align="bottom" href="../images/w5.jpg" width="500"
+						height="400" />
+
+				</cmd>
+			</step>
+			<step>
+				<cmd>
+					<b>
+						<ph>Take a piece of cardboard or similar material and cut out 3-6
+							large fins.
+						</ph>
+					</b>
+					<image align="bottom" href="../images/w6.jpg" width="500"
+						height="400" />
+
+				</cmd>
+			</step>
+			<step>
+				<cmd>
+					<b>
+						<ph>Take a foam football and saw it in half. This will be your
+							nosecone.
+						</ph>
+					</b>
+					<image align="bottom" href="../images/w7.jpg" width="500"
+						height="400" />
+
+				</cmd>
+			</step>
+			<step>
+				<cmd>
+					<b>
+						<ph>Using duct tape, attach nosecone and fins.  Becareful when cutting out fins. </ph>
+					</b>
+					<image align="bottom" href="../images/w8.jpg" width="500"
+						height="400" />
+
+				</cmd>
+			</step>
+			<step>
+				<cmd>
+					<b>
+						<ph>Take your pen barrel and attach to a bike pump.  The barrel will act as a connector</ph>
+					</b><cite></cite>
+					<image align="bottom" href="../images/w9.jpg" width="500"
+						height="400" />
+
+				</cmd>
+			</step>
+			<step>
+				<cmd>
+					<b>
+						<ph>Take pen barrel and insert it into the hole of the cap.  Try to make it fit snugly.</ph>
+					</b>
+					<image align="bottom" href="../images/w10.jpg" width="500"
+						height="400" />
+
+				</cmd>
+			</step>
+			<step>
+				<cmd>
+					<b>
+						<ph>Add water into the bottle.  Fill the bottle all the way.  Making sure no leaks.</ph>
+					</b>
+					<image align="bottom" href="../images/w11.jpg" width="500"
+						height="400" />
+
+				</cmd>
+			</step>
+			<step>
+				<cmd>
+					<b>
+						<ph>Pump air into bottle. There should be no leaks in the bottle
+							for this to work.</ph>
+					</b>
+					<image align="bottom" href="../images/w12.jpg" width="500"
+						height="400" />
+
+				</cmd>
+			</step>
+
+
+
+
+		</steps>
+	</taskbody>
+	<related-links>
+		<link href="http://www.wikihow.com/Make-a-Water-Bottle-Rocket"
+			format="html" type="concept">
+			<linktext>http://www.wikihow.com/Make-a-Water-Bottle-Rocket
+			</linktext>
+	</link>
+	</related-links>
+	
+</task>

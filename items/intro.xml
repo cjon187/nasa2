@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "../../dtd/topic.dtd">
+<topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+       ditaarch:DITAArchVersion="1.1" xml:lang="en-us" id="intro">
+	<title>Nasa DITA Map Project</title>
+	<shortdesc>Converting some data from www.nasa.gov into structured DITA 
+	(Darwin Information Typing Architecture) format.</shortdesc>
+	<body>
+		<p>
+			<ul>
+				<li>Shenal Kumar</li>
+				<li>Kai Yang</li>
+				<li>Jonathan Chong</li>
+			</ul>
+		</p>
+		<p>
+			<image align="middle" height="100" href="../images/nasa-logo.png" width="100"/>
+		</p>
+		<p>For this project we will be using information and references from 
+		the site http://www.nasa.gov and structuring them into DITA format so 
+		the data can be reused across multiple publications.</p>
+		<p>
+			Some information about DITA:
+			<ul>
+				<li>
+					<b>Darwin Information Typing Architecture (DITA)</b>
+					is an XML data model for authoring and, with the DITA Open 
+					Toolkit, publishing. It is a standard that is defined and 
+					maintained by the OASIS DITA Technical Committee.
+				</li>
+				<li>
+					<b>Content reuse.</b>
+					Topics can be reused across multiple publications. Fragments of 
+					content within topics can be reused through the use of content 
+					references (conref), a transclusion mechanism.
+				</li>
+				<li>
+					<b>Topic-based authoring.</b>
+					Modular approach to content creation where content is structured 
+					around topics that can be mixed and reused in different contexts. 
+					It is defined in contrast with book-oriented or narrative content, 
+					written in the linear structure of written books
+				</li>
+			</ul>
+		</p>
+		<p>
+			<cite>
+			http://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture#Code_samples</cite>
+		</p>
+	</body>
+</topic>

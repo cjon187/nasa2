@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.1 Concept//EN" "concept.dtd">
+<concept id="marsrover" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+	ditaarch:DITAArchVersion="1.1">
+	
+	<title>MARS Rover Landing Simulation (No Audio)</title>
+	<conbody>
+			<p>Simulation of a probe landing on Mars 
+		</p>
+
+			
+	<p><object data="../images/marsvid1.mp4" type="video/mp4" height="500"
+ width="600">
+     <param name="width" value="400"/>
+     <param name="height" value="400"/>
+     <param name="controls" value="yes"/>
+	 <param name="autoplay" value="false"/>
+	</object></p>
+	 <p><cite>http://www.youtube.com/watch?v=KyktvC7w7Js</cite></p>
+	 
+	
+	</conbody>
+	
+	
+</concept>

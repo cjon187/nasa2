@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "../../dtd/technicalContent/dtd/task.dtd">
+<task id="CommanderPilot" xml:lang="en-us">
+	
+	<title>Commander and Pilot Duties</title>
+	
+	<shortdesc>Pilot astronauts serve as both Space Shuttle and
+		International Space Station commanders and pilots. During flight, the
+		commander has onboard responsibility for the vehicle, crew, mission
+		success and safety of flight. The pilot assists the commander in
+		controlling and operating the vehicle. In addition, the pilot may
+		assist in the deployment and retrieval of satellites utilizing the
+		remote manipulator system, in extravehicular activities, and in other
+		payload operations.
+	</shortdesc>
+
+	<taskbody>
+		<steps>
+			<step>
+				<cmd> Attain a Bachelor's degree from an accredited institution in
+					engineering, biological science, physical science, or mathematics.
+					An advanced
+					degree is desirable. Quality of academic preparation is
+					important.
+				</cmd>
+				</step>
+			
+				<step>
+					<cmd> Complete at least 1,000 hours pilot-in-command time in jet
+						aircraft. Flight test experience is highly desirable. </cmd>
+				</step>
+				<step>
+					<cmd>Pass a NASA space physical which is similar to a military or
+						civilian flight physical
+					</cmd>
+				</step>
+				<step>
+					<cmd>Have a distant visual acuity: 20/100 or better uncorrected,
+						correctable to 20/20 each eye.</cmd>
+				</step>
+				<step>
+					<cmd>Blood pressure: 140/90 measured in a sitting position.
+					</cmd>
+				</step>
+				<step>
+					<cmd>Must have a height between 62 and 75 inches.</cmd>
+				</step>
+							
+		</steps>
+	</taskbody>
+	<related-links>
+		<link href="http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html" format="html"
+			type="concept">
+			<linktext>http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html</linktext>
+		</link>
+		
+	</related-links>
+	</task>

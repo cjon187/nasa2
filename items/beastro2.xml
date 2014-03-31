@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "../../dtd/technicalContent/dtd/task.dtd">
+<task id="MissionSpecialist" xml:lang="en-us">
+
+	<title>Mission Specialist</title>
+	
+	<shortdesc>Mission specialist astronauts work with the commander and
+		the pilot and have overall responsibility for coordinating operations
+		in the following areas: systems, crew activity planning, consumables
+		usage, and experiment/payload operations. Mission specialists are
+		trained in the details of the onboard systems, as well as the
+		operational characteristics, mission requirements/ objectives, and
+		supporting equipment/systems for each of the experiments conducted on
+		their assigned missions.
+	</shortdesc>
+
+	<taskbody>
+		<steps>
+			<step>
+				<cmd> Attain a bachelor's degree from an accredited institution in
+					engineering, biological science, physical science, or mathematics.
+					Degree must be followed by at least three years of related,
+					progressively responsible, professional experience. An advanced
+					degree is desirable and may be substituted for part or all of the
+					experience requirement (master's degree = 1 year of experience,
+					doctoral degree = 3 years of experience). Quality of academic
+					preparation is important.
+				</cmd>
+			</step>
+
+			
+			<step>
+				<cmd>Pass a NASA space physical which is similar to a military or
+					civilian flight physical
+				</cmd>
+			</step>
+			<step>
+				<cmd>Have a distant visual acuity: 20/100 or better uncorrected,
+					correctable to 20/20 each eye.
+				</cmd>
+			</step>
+			<step>
+				<cmd>Blood pressure: 140/90 measured in a sitting position.
+				</cmd>
+			</step>
+			<step>
+				<cmd>Must have a height between 58 and 75 inches.</cmd>
+			</step>
+
+		</steps>
+	</taskbody>
+	<related-links>
+		<link href="http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html" format="html"
+			type="concept">
+			<linktext>http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html</linktext>
+		</link>
+		
+	</related-links>
+</task>

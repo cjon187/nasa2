@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.1 Concept//EN" "concept.dtd">
+<concept id="class1" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+	ditaarch:DITAArchVersion="1.1">
+	<title>URANUS</title>
+	<conbody>
+		<table>
+			<tgroup cols="2">
+				<colspec colname="COLSPEC0" colwidth="270*" />
+				<colspec colname="COLSPEC1" colwidth="270*" />
+				<thead>
+					<row>
+						<entry colname="COLSPEC0" valign="top">
+							<fig>
+								<title>Uranus surface</title>
+							</fig>
+						</entry>
+						<entry colname="COLSPEC1" valign="top">
+							<fig>
+								<title>Image of the planet Uranus</title>
+							</fig>
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>
+							<image align="middle" href="../images/uranus2.jpg" width="220"
+								height="220" />
+						</entry>
+						<entry>
+							<image align="top" href="../images/uranus1.jpg" width="220"
+								height="220" />
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+
+
+
+		
+
+		<p>The first planet found with the aid of a telescope, Uranus was discovered in 1781 by astronomer William Herschel,
+		although he originally thought it was a comet or star. The seventh planet from the Sun is so distant that it takes 
+		84 years to complete one orbit. 
+		</p>
+
+		<p>
+			<b>What Has NASA Learned About Uranus?</b>
+Black and white image shows Uranus and several moons.	
+Uranus and several of its moons in near-infrared.
+Like Venus, Uranus rotates east to west. Uranus' rotation axis is tilted almost parallel to its orbital plane,
+ so Uranus appears to be rotating on its side. This situation may be the result of a collision with a planet-sized
+ body early in the planet's history, which apparently radically changed Uranus' rotation. Because of Uranus' 
+ unusual orientation, the planet experiences extreme variations in sunlight during each 20-year-long season.
+		</p>
+		<p><cite>http://solarsystem.nasa.gov/planets/profile.cfm?Object=Uranus</cite></p>
+	</conbody>
+	<related-links>
+		<link format="html" href="http://solarsystem.nasa.gov/planets/profile.cfm?Object=Uranus"
+			scope="external">
+			<linktext>http://solarsystem.nasa.gov/planets/profile.cfm?Object=Uranus</linktext>
+		</link>
+	</related-links> 
+</concept>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.1 Concept//EN" "concept.dtd">
+<concept id="class1" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+	ditaarch:DITAArchVersion="1.1">
+	<title>How to Become an Astronaut</title>
+	<conbody>
+		<p>
+		    <b>Description: </b>
+			Procedures for applicants interested in becoming an astronaut.  There are 3 main categories and exceptions
+			can be made for specialized experts in designated fields.
+			</p>
+		
+		<p></p>
+	</conbody>
+</concept>

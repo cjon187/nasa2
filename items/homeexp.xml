@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.1 Concept//EN" "concept.dtd">
+<concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+         ditaarch:DITAArchVersion="1.1" id="experiments">
+	<title>Experiments and Procedures</title>
+	<conbody>
+		<p>Some easy experiments that you can perform at home. There is also 
+		a list of steps needed to perform in order to be eligible for NASA 
+		space training.</p>
+		<note>There are some cutting and power tool use so ask parents 
+		permission before conducting these experiments.
+		</note>
+	</conbody>
+</concept>

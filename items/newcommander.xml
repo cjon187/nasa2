@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.1 Concept//EN" "concept.dtd">
+<concept id="sapcecommander" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+	ditaarch:DITAArchVersion="1.1">
+	
+	<title>Space Station New Commander</title>
+	<conbody>
+			<p>Handing over ISS command to Japanese commander 
+		</p>
+
+			
+			
+		
+	<p><object data="../images/commander.mp4" type="video/mp4" height="500"
+ width="600">
+ 	<param name="SRC" value="http://ie.microsoft.com/testdrive/IEBlog/Common/player.swf?file=../images/commander.mp4"/>
+
+ 	
+     <param name="width" value="600"/>
+     <param name="height" value="600"/>
+     <param name="controls" value="yes"/>
+	 <param name="autoplay" value="false"/>
+	</object></p>
+	 <p><cite>http://www.youtube.com/watch?v=kumP_g_zfyI</cite></p>
+	
+	</conbody>
+	
+	
+</concept>

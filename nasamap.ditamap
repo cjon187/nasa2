@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+ "../dtd/technicalContent/dtd/map.dtd">
+<map title="NASA DITA Project">
+	<topicref href="items/intro.xml" type="topic" navtitle="intro"/>
+		<topicref href="items/planets.xml" type="concept" >
+			<topicref href="items/mars.xml" type="concept" />
+			<topicref href="items/venus1.xml" type="concept"/>
+			<topicref href="items/earth.xml" type="concept"/>
+			<topicref href="items/uranus.xml" type="concept"/>
+			<topicref href="items/mercury.xml" type="concept"/>
+		</topicref>
+		
+		<topicref href="items/homeexp.xml" type="concept" >
+			<topicref href="items/list1waterrocket.xml" type="task" />
+			
+			<topicref href="items/beintro.xml" type="concept" >
+			<topicref href="items/beastro.xml" type="task" />
+			<topicref href="items/beastro2.xml" type="task" />
+			<topicref href="items/beastro3.xml" type="task" />
+			</topicref>
+		
+		</topicref>
+		
+		
+		
+		<topicref href="items/video.xml" type="concept">
+		<topicref href="items/marsrover.xml" type="concept" />
+		<topicref href="items/shuttlev.xml" type="concept" />
+		<topicref href="items/newcommander.xml" type="concept" />
+		</topicref>
+</map>

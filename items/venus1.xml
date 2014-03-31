@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.1 Concept//EN" "concept.dtd">
+<concept id="venus" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+	ditaarch:DITAArchVersion="1.1">
+
+	<title>VENUS</title>
+	<conbody>
+		<table>
+			<tgroup cols="2">
+				<colspec colname="COLSPEC0" colwidth="270*" />
+				<colspec colname="COLSPEC1" colwidth="270*" />
+				<thead>
+					<row>
+						<entry colname="COLSPEC0" valign="top">
+							<fig>
+								<title>The Planet Venus</title>
+							</fig>
+						</entry>
+						<entry colname="COLSPEC1" valign="top">
+							<fig>
+								<title>Surface Image of Venus</title>
+							</fig>
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>
+							<image align="middle" href="../images/venus1.gif" width="220"
+								height="220" />
+						</entry>
+						<entry>
+							<image align="top" href="../images/venus2.jpg" width="220"
+								height="220" />
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+
+
+
+
+
+		<p>Venus is the second planet from the Sun, and is Earth's closest
+			neighbor in the solar system.
+			Venus is the brightest object in the sky
+			after the Sun and the Moon, and
+			sometimes looks
+			like a bright star in
+			the morning or evening sky. The planet is a little
+			smaller than
+			Earth,
+			and is similar to Earth inside. We can't see the surface of Venus
+			from Earth,
+			because it is covered with thick clouds. However, space
+			missions to Venus
+			have shown us
+			that its surface is covered with
+			craters, volcanoes, mountains, and big
+			lava plains. The
+			surface of
+			Venus is not where you'd like to be, with temperatures that can
+			melt
+			lead,
+			an atmosphere so thick it would crush you, and clouds of
+			sulfuric acid
+			that smell like
+			rotten eggs to top it off!
+		</p>
+
+		<p>
+			<b>What Has NASA Learned About Venus?</b>
+			Craters smaller than 1.5 to 2 kilometers (0.9 to 1.2 miles) across do
+			not exist on Venus, because small meteors burn up in the dense
+			atmosphere before they can reach the surface. It is thought that
+			Venus was completely resurfaced by volcanic activity 300 to 500
+			million years ago. More than 1,000 volcanoes or volcanic centers
+			larger than 20 kilometers (12 miles) in diameter dot the surface.
+			Volcanic flows have produced long, sinuous channels extending for
+			hundreds of kilometers. Venus has two large highland areas - Ishtar
+			Terra, about the size of Australia, in the north polar region; and
+			Aphrodite Terra, about the size of South America, straddling the
+			equator and extending for almost 10,000 kilometers (6,000 miles).
+			Maxwell Montes, the highest mountain on Venus and comparable to Mount
+			Everest on Earth, is at the eastern edge of Ishtar Terra.
+		</p>
+
+
+    		<p><cite>http://solarsystem.nasa.gov/planets/profile.cfm</cite></p>
+    
+	</conbody>
+	<related-links>
+		<link format="html" href="http://solarsystem.nasa.gov/planets/profile.cfm"
+			scope="external">
+			<linktext>http://solarsystem.nasa.gov/planets/profile.cfm</linktext>
+		</link>
+	</related-links> 
+</concept>

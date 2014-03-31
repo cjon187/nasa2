@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.1 Concept//EN" "concept.dtd">
+<concept id="earth" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+	ditaarch:DITAArchVersion="1.1">
+
+	<title>EARTH</title>
+	<conbody>
+		<table>
+			<tgroup cols="2">
+				<colspec colname="COLSPEC0" colwidth="270*" />
+				<colspec colname="COLSPEC1" colwidth="270*" />
+				<thead>
+					<row>
+						<entry colname="COLSPEC0" valign="top">
+							<fig>
+								<title>The Planet Earth</title>
+							</fig>
+						</entry>
+						<entry colname="COLSPEC1" valign="top">
+							<fig>
+								<title>Earth</title>
+							</fig>
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>
+							<image align="middle" href="../images/earth1.jpg" width="220"
+								height="220" />
+						</entry>
+						<entry>
+							<image align="top" href="../images/earth2.jpg" width="220"
+								height="220" />
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+
+
+
+
+
+		<p>Earth is our home planet. Scientists think Earth formed billions of
+			years ago. Four planets in the solar system are bigger than Earth.
+			Three planets are smaller. It is the third-closest planet to the sun.
+			Only Mercury and Venus are closer.Earth has been called the
+			"Goldilocks planet." In the story "Goldilocks and the Three Bears," a
+			little girl named Goldilocks liked everything just right. Her
+			porridge couldn't be too hot or too cold. And her bed couldn't be too
+			hard or too soft. On Earth, everything is just right for living
+			things. It's warm, but not too warm. And it has water, but not too
+			much water.
+			Earth is the only planet known to have lots of liquid
+			water. Liquid water
+			is important for life. Earth is the only planet
+			where life has been
+			found.
+		</p>
+
+		<p>
+			<b>Why Does Earth Have Seasons?</b>
+			Earth has seasons because it is tilted. The season depends on whether
+			a
+			place is tilted toward or away from the sun.
+			In the summer, the
+			Northern Hemisphere is tilted toward the sun. The
+			sun's rays hit the
+			Northern Hemisphere in a straight line. The days
+			are long and hot. The
+			opposite happens in winter. Then, the north is
+			tilted away from the
+			sun. The days are short and dark. When it is
+			summer in the northern
+			half of Earth, it is winter in the southern
+			half.
+		</p>
+		<p>Earth is made up of land, air, water and life. Mountains, valleys
+			and flat places make up the land. The air is made of different gases.
+			One of the gases is oxygen. Oceans, lakes, rivers, streams, rain,
+			snow and ice are made of water. Earth has many different kinds of
+			life. People, animals and plants live on Earth. Some living things
+			are very tiny. Others may be very large.</p>
+
+		<p>
+			<table>
+				<tgroup cols="2">
+					<colspec colname="COLSPEC0" colwidth="270*" />
+					<colspec colname="COLSPEC1" colwidth="270*" />
+					<thead>
+						<row>
+							<entry colname="COLSPEC0" valign="top">
+
+								<p />
+
+							</entry>
+							<entry colname="COLSPEC1" valign="top">
+
+								<p />
+
+							</entry>
+						</row>
+					</thead>
+					<tbody>
+
+						<row>
+							<entry>Mass (1024 kg) </entry>
+							<entry> 5.9726		</entry>
+						</row>
+						<row>
+							<entry>Volume (1010 km3)</entry>
+							<entry> 108.321   </entry>
+						</row>
+						<row>
+							<entry>Equatorial radius (km)</entry>
+							<entry> 6378.1 </entry>
+						</row>
+						<row>
+							<entry>Polar radius (km)</entry>
+							<entry> 6356.8  </entry>
+						</row>
+						<row>
+							<entry>Volumetric mean radius (km)</entry>
+							<entry> 6371.0	</entry>
+						</row>
+						<row>
+							<entry>Core radius (km)  </entry>
+							<entry> 3485		</entry>
+						</row>
+						<row>
+							<entry>Ellipticity (Flattening)  </entry>
+							<entry> 0.00335    </entry>
+						</row>
+						<row>
+							<entry>Mean density (kg/m3)       </entry>
+							<entry> 5514      	</entry>
+						</row>
+						<row>
+							<entry>Surface gravity (m/s2)     </entry>
+							<entry> 9.798  	</entry>
+						</row>
+						<row>
+							<entry>Surface acceleration (m/s2)  </entry>
+							<entry> 9.780     </entry>
+						</row>
+						<row>
+							<entry>Escape velocity (km/s)   </entry>
+							<entry> 11.186		</entry>
+						</row>
+						<row>
+							<entry>GM (x 106 km3/s2)         </entry>
+							<entry> 0.3986     </entry>
+						</row>
+						<row>
+							<entry>Bond albedo               </entry>
+							<entry> 0.306  	</entry>
+						</row>
+						<row>
+							<entry>Visual geometric albedo   </entry>
+							<entry> 0.367		</entry>
+						</row>
+						<row>
+							<entry>Visual magnitude V(1,0)   </entry>
+							<entry> -3.86		</entry>
+						</row>
+						<row>
+							<entry>Solar irradiance (W/m2)    </entry>
+							<entry> 1367.6    </entry>
+						</row>
+						<row>
+							<entry>Black-body temperature (K)  </entry>
+							<entry> 254.3    </entry>
+						</row>
+						<row>
+							<entry>Topographic range (km)      </entry>
+							<entry> 20		</entry>
+						</row>
+						<row>
+							<entry>Moment of inertia (I/MR2)   </entry>
+							<entry> 0.3308	</entry>
+						</row>
+						<row>
+							<entry>J2 (x 10-6)            </entry>
+							<entry> 1082.63     </entry>
+						</row>
+						<row>
+							<entry>Number of natural satellites  </entry>
+							<entry> 1          		</entry>
+						</row>
+						<row>
+							<entry>Planetary ring system        </entry>
+							<entry> No 		</entry>
+						</row>
+
+
+
+					</tbody>
+				</tgroup>
+			</table>
+		</p>
+
+
+	<p><cite>http://www.nasa.gov/audience/forstudents/k-4/stories/what-is-earth-k4.html#.Ux7YzvldUs9</cite></p>
+	</conbody>
+	 <related-links>
+		<link format="html"
+			href="http://www.nasa.gov/audience/forstudents/k-4/stories/what-is-earth-k4.html#.Ux7YzvldUs9"
+			scope="external">
+			<linktext>http://www.nasa.gov/audience/forstudents/k-4/stories/what-is-earth-k4.html#.Ux7YzvldUs9
+			</linktext>
+		</link>
+	</related-links> 
+</concept>

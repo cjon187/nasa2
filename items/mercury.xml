@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.1 Concept//EN" "concept.dtd">
+<concept id="class1" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+	ditaarch:DITAArchVersion="1.1">
+	<title>MERCURY</title>
+	<conbody>
+		<table>
+			<tgroup cols="2">
+				<colspec colname="COLSPEC0" colwidth="270*" />
+				<colspec colname="COLSPEC1" colwidth="270*" />
+				<thead>
+					<row>
+						<entry colname="COLSPEC0" valign="top">
+							<fig>
+								<title>Mercury surface.</title>
+							</fig>
+						</entry>
+						<entry colname="COLSPEC1" valign="top">
+							<fig>
+								<title>Image of the planet Mercury</title>
+							</fig>
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>
+							<image align="middle" href="../images/mercury2.jpg" width="220"
+								height="220" />
+						</entry>
+						<entry>
+							<image align="top" href="../images/mercury1.jpg" width="220"
+								height="220" />
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+
+
+
+		
+
+		<p>Mercury's eccentric orbit takes the small planet as close as 47 million kilometers (29 million miles) 
+		and as far as 70 million kilometers (43 million miles) from the sun. If one could stand on the scorching 
+		surface of Mercury when it is at its closest point to the sun, the sun would appear more than three times 
+		as large as it does when viewed from Earth. Temperatures on Mercury's surface can reach 430 degrees Celsius
+		(800 degrees Fahrenheit). Because the planet has no atmosphere to retain that heat,nighttime temperatures 
+		on the surface can drop to -180 degrees Celsius (-290 degrees Fahrenheit).
+		</p>
+
+		<p>
+			<b>What Has NASA Learned About Mercury?</b>
+Because Mercury is so close to the sun, it is hard to directly observe from Earth except during dawn or twilight. 
+Mercury makes an appearance indirectly, however - 13 times each century, observers on Earth can watch Mercury pass
+ across the face of the sun, an event called a transit. These rare transits fall within several days of 8 May and 
+ 10 November. The first two transits of Mercury in the 21st century occurred 7 May 2003, and 8 November 2006. The 
+ next are 9 May 2016, and 11 November 2019.
+
+Mercury speeds around the sun every 88 days, traveling through space at nearly 50 kilometers (31 miles) per second
+ faster than any other planet. One Mercury solar day equals175.97 Earth days.
+		</p>
+		<p><cite>http://www.nasa.gov/audience/forstudents/k-4/stories/what-is-planet-mercury-k4.html#.UzEq9_ldUs8</cite></p>
+	</conbody>
+	<related-links>
+		<link format="html" href="http://www.nasa.gov/audience/forstudents/k-4/stories/what-is-planet-mercury-k4.html#.UzEq9_ldUs8"
+			scope="external">
+			<linktext>http://www.nasa.gov/audience/forstudents/k-4/stories/what-is-planet-mercury-k4.html#.UzEq9_ldUs8</linktext>
+		</link>
+	</related-links> 
+</concept>

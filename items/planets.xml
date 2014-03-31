@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.1 Concept//EN" "concept.dtd">
+<concept id="class1" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+	ditaarch:DITAArchVersion="1.1">
+	<title>Planets</title>
+	<conbody>
+		<p>
+		    <b>Description: </b>
+			A planet (from Ancient Greek ἀστὴρ πλανήτης (astēr planētēs), meaning "wandering star") 
+			is an astronomical object orbiting a star or stellar remnant that is massive enough to be 
+			rounded by its own gravity, is not massive enough to cause thermonuclear fusion, and has cleared
+			its neighbouring region of planetesimals
+		</p>
+		
+		<p></p>
+	</conbody>
+</concept>

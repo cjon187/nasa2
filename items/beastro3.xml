@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "../../dtd/technicalContent/dtd/task.dtd">
+<task id="PayloadSpecialist" xml:lang="en-us">
+
+	<title>Payload Specialist</title>
+
+	<shortdesc>Payload specialists are persons other than NASA astronauts
+		(including foreign nationals) who have specialized onboard duties;
+		they may be added to shuttle crews if activities that have unique
+		requirements are involved and more than the minimum crew size of five
+		is needed.
+	</shortdesc>
+
+	<taskbody>
+		<steps>
+			<step>
+				<cmd> Be nominated by NASA, the foreign sponsor, or the designated payload sponsor.
+				</cmd>
+			</step>
+
+			<step>
+				<cmd> Get the appropriate education and training related to the payload or experiment.
+				</cmd>
+			</step>
+			<step>
+				<cmd>Pass NASA space physical examinations with varying standards depending on classification.
+				</cmd>
+			</step>
+			<step>
+				<cmd>Have a distant visual acuity: 20/100 or better uncorrected,
+					correctable to 20/20 each eye.
+				</cmd>
+			</step>
+			
+
+		</steps>
+	</taskbody>
+	<related-links>
+		<link
+			href="http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html"
+			format="html" type="concept">
+			<linktext>http://www.nasa.gov/audience/forstudents/postsecondary/features/F_Astronaut_Requirements.html
+			</linktext>
+		</link>
+
+	</related-links>
+</task>
